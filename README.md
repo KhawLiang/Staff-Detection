@@ -1,5 +1,5 @@
 # Staff Detection Application Documentation
-a
+
 ---
 
 ## Table of Contents
