@@ -1,0 +1,5 @@
+path: C:/Users/khaw/2025/FootfallCam Test/dataset/
+train: images/train
+val: images/val
+nc: 1
+names: ["Staff"]
