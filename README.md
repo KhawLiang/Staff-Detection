@@ -151,5 +151,5 @@ Run the script in `./code/fine_tune.py` to fine tune YOLOv8. After fine tuned a 
 ### 7. Staff Detection Results
 Here are some sample outputs from the staff detection model:
 
-![Example Output](staff_detection\train22\val_batch0_pred.jpg)
+![Example Output](./staff_detection/train22/val_batch0_pred.jpg)
 
